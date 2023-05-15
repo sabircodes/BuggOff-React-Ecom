@@ -43,7 +43,7 @@ export const Cart = () => {
               {
                 products.map((product) => (
                   <div className='product-cart'>
-                    <img src={product.Product_img}></img>
+                    <IMG src={product.Product_img}></IMG>
                     <div className='content'>
                       <div className='cart-details'>
                         <div className='product-name'>{product.Product_name}</div>
