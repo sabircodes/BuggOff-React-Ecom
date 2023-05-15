@@ -43,7 +43,7 @@ function Register (){
                     catch(err){
                         setErr(true)
                     }
-                // navigate("/Profile")
+                navigate("/Profile")
             })
         })
         

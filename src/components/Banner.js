@@ -10,13 +10,13 @@ function Banner() {
         <div className='absolute w-full h-8 bg-gradient-to-t from-gray-100 to-transparent bottom-0 z-20' />
         <Carousel autoPlay infiniteLoop showStatus={false} showIndicators={false} showThumbs={false} interval={4000}>
         <div>
-            <IMG loading='lazy' href="/banner.png" alt='' width={50} height={50} />
+            <img loading='lazy' src="C:\Users\LENOVO\OneDrive\Desktop\ejs-challenge\BuggOff-React-Ecom\public\banner.png" alt='' width={50} height={50} />
         </div>
         <div>
-            <IMG loading='lazy' href="/banner.png" alt='' width={50} height={50} />
+            <img loading='lazy' src="C:\Users\LENOVO\OneDrive\Desktop\ejs-challenge\BuggOff-React-Ecom\public\banner.png" alt='' width={50} height={50} />
         </div>
         <div>
-            <IMG loading='lazy' href="/banner.png" alt='' width={50} height={50} />
+            <img loading='lazy' src="C:\Users\LENOVO\OneDrive\Desktop\ejs-challenge\BuggOff-React-Ecom\public\banner.png" alt='' width={50} height={50} />
         </div>
         </Carousel>
     </div>
